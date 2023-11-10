@@ -40,3 +40,14 @@ Kode tersebut sebagian besar berfokus pada antarmuka grafis pengguna (GUI) untuk
 ![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/73d2777e-cb61-48d7-94af-e88667859d52)
 
 Jadi, keseluruhan kode ini bertujuan untuk membuat jendela aplikasi "Tic Tac Toe" menggunakan Tkinter, menyiapkan logika permainan, menempatkan elemen-elemen GUI ke dalam jendela, dan menjalankan aplikasi sehingga dapat diakses dan dioperasikan oleh pengguna.
+
+Setelah menjalankannya, program akan menghasilkan tampilan GUI Tic-Tac-Toe seperti yang terlihat di bawah ini:
+
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/804bf486-b364-44c8-9de7-402af9d16c21)
+
+Nanti dapat mengklik kolom, di mana klik pertama akan menampilkan simbol X, dan setiap klik kedua akan menampilkan simbol O, hingga terbentuk susunan X atau O yang sejajar baik secara vertikal, diagonal, maupun horizontal. Berikut adalah contoh hasil permainannya:
+
+
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/9170c667-1d73-442b-bf16-e1a59d907827)
+
+
