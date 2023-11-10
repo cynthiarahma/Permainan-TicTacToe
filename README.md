@@ -27,3 +27,16 @@ Kode ini memudahkan untuk memeriksa dan mengelola status permainan dengan memeri
 
 Kode ini berfungsi untuk mendefinisikan sebuah kelas Python bernama Cell yang memiliki tujuan untuk merepresentasikan sebuah sel dalam suatu struktur data yang mungkin digunakan untuk permainan papan.
 
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/4ef9dabd-8a0a-4c88-8e3a-527c793dfe4a)
+Kode di atas adalah representasi sederhana dari permainan Tic Tac Toe (Tic Tac Toe adalah permainan papan 3x3 dimana pemain mencoba untuk menempatkan simbol mereka (biasanya X atau O) secara bergantian di setiap kotak papan, tujuannya adalah untuk mencetak tiga dari simbol tersebut secara berurutan di baris, kolom, atau diagonal). 
+
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/0c18f013-be47-44c6-a72f-f9321bd2bad2)
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/046b2f98-50f2-409a-9a75-8de64310d606)
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/58a36c61-71a1-4026-8b6f-e3a70438100c)
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/dd1c866d-58e7-46d0-b89b-6f3d628ad299)
+
+Kode tersebut sebagian besar berfokus pada antarmuka grafis pengguna (GUI) untuk permainan Tic-Tac-Toe, termasuk logika penggunaan canvas, pembuatan elemen-elemen visual, dan manipulasi status permainan.
+
+![image](https://github.com/cynthiarahma/Permainan-TicTacToe/assets/149099370/73d2777e-cb61-48d7-94af-e88667859d52)
+
+Jadi, keseluruhan kode ini bertujuan untuk membuat jendela aplikasi "Tic Tac Toe" menggunakan Tkinter, menyiapkan logika permainan, menempatkan elemen-elemen GUI ke dalam jendela, dan menjalankan aplikasi sehingga dapat diakses dan dioperasikan oleh pengguna.
